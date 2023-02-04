@@ -1,4 +1,4 @@
-# The-Billion-Dollar-Failure-to-Fix-Indian-Undernutrition
+# Causal Inference and Indian Undernutrition
 ```
 Implemented machine learning-based inverse probability weighting and backdoor adjustment 
 tools to investigate the effect of India's premier child supplemental nutrition program 
